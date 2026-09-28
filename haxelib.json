@@ -1,0 +1,19 @@
+{
+  "name": "FoxPhysX",
+  "url" : "https://github.com/ZSolarDev/FoxPhysX/",
+  "license": "MIT",
+  "tags": ["cpp", "physx", "physics", "3d", "flixel", "openfl", "lime", "foxlite"],
+  "description": "PhysX physics engine for FoxLite.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release.",
+  "contributors": ["ZSolarDev"],
+  "dependencies": {
+    "foxlite": "",
+    "flixel": "",
+    "openfl": "",
+    "lime": "",
+    "physhx": "",
+    "hxcpp": ""
+  }
+}
